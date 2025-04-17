@@ -4,7 +4,7 @@ This repository contains the complete pipeline for my CMSE410 final project at M
 
 ---
 
-## 🔍 Project Overview
+## Project Overview
 
 The project was divided into several key components:
 - **Data Acquisition & Cleaning** (`background.ipynb`, `data_prep.ipynb`)
@@ -15,7 +15,7 @@ The project was divided into several key components:
 
 ---
 
-## 📁 Files
+## Files
 
 | File | Description |
 |------|-------------|
@@ -31,7 +31,7 @@ The project was divided into several key components:
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 - ANN models showed poor generalization on spike count prediction due to high variability and signal sparsity.
 - CNN architectures were attempted but not included due to excessive training time and data imbalance.
@@ -39,7 +39,7 @@ The project was divided into several key components:
 
 ---
 
-## 📂 Code & Reproducibility
+## Code & Reproducibility
 
 To run this project locally:
 
